@@ -1,7 +1,7 @@
 while(True):
     print('enter the level you want to play')
     print('easy')
-    print('intermediant')
+    print('intermediate')
     print('hard')
     a=input('enter the level')
     if a=='easy':
